@@ -1,3 +1,5 @@
+The release isnt the client , i uploaded random cat because of the limit
+The actual file link is this : https://gofile.io/d/wSImUg
 Open the client
 Close all instances of fortnite (if running)
 Click on launch fornite in the client
